@@ -1,0 +1,5 @@
+sempre declarar as variáveis no começo da função e antes de serem usadas
+uma observação sobre isso, caso seja um varíavel de laço for não precisa.
+
+usar constantes com define
+usar for quando as iterações de inicio, fim e passo estiverem bem relacionadas entre si ou são bem conhecidas.
